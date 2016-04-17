@@ -1,3 +1,3 @@
 # sainsbury-ex
 
-sraping ripe groceries webpage using jsoup.
+scraping ripe groceries webpage using jsoup.
